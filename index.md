@@ -1,6 +1,3 @@
-# Private Ryan's Lua Projects
-
-
 ## About
 
 I have been developing in Garry's Mod for a few years now, whether it's server creation, coding, mapping, ect. It's one of my hobbies and I enjoy learning new things everyday and challenging myself.
