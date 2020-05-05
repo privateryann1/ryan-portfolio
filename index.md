@@ -31,3 +31,7 @@ I created this in order to deter staff members from abusing their powers. The ch
 ### Friendly-Fire Toggle
 ![Friendly-Fire](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/friendlyfire.gif)
 I created this to negate the amount of team-killing that was going on. The cooldown between each use was put in to disallow abuse of the command.
+
+### Leaderboard
+![Leaderboard](https://i.imgur.com/buYlR4c.png)
+This is a clean, simplistic menu that shows the top 3 people of each defined category: Kills, Deaths, KDR, and Money.
