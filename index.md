@@ -13,7 +13,7 @@ Here are some of the projects I've worked on in the past:
 A simple, clean menu that pops-up when a user loads into the server. It allows the user to choose which side they would like to join.
 
 ### Leaderboard
-![Leaderboard](https://i.imgur.com/buYlR4c.png)
+![Leaderboard](https://i.imgur.com/buYlR4c.png)                                                     
 This is a clean, simplistic menu that shows the top 3 people of each defined category: Kills, Deaths, KDR, and Money.
 
 ### Weapon Dealer/Shop NPC
