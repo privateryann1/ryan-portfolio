@@ -4,7 +4,15 @@ I have been developing in Garry's Mod for a few years now, whether it's server c
 
 You can contact me on [gmodstore](https://www.gmodstore.com/users/privateryan), [Steam](https://steamcommunity.com/id/BigRVman/), and [Discord](https://discordapp.com/users/328348902732595210).
 
-## Projects
+## Commissioned Projects
+
+Here are the things that I have been commissioned to make:
+
+### ClonewarsRP "AI"
+![CWRP AI Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/simpleai.gif)
+This is a system that allows you to open any door through commands. It has a registering system so you can name the doors, and it uses file-saving, meaning it will persist through server restarts. 
+
+## Personal Projects
 
 Here are some of the projects I've worked on in the past:
 
