@@ -12,6 +12,10 @@ Here are the things that I have been commissioned to make:
 ![CWRP AI Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/simpleai.gif)
 This is a system that allows you to open any door through commands. It has a registering system so you can name the doors, and it uses file-saving, meaning it will persist through server restarts. 
 
+### Jail Command
+![Jail Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/jailcommand.gif)
+This is a custom ULX command that improves the default jail from ULX. This strips the target, teleports them to your defined room, and keeps them there for a specified amount of time. The target cannot switch jobs, spawn props, and suicide to get out. If they reconnect to the server, they will still be jailed. Also includes commands to add jail positions in-game.
+
 ## Personal Projects
 
 Here are some of the projects I've worked on in the past:
