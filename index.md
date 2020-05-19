@@ -8,6 +8,10 @@ You can contact me on [gmodstore](https://www.gmodstore.com/users/privateryan), 
 
 Here are the things that I have been commissioned to make:
 
+### Ticket System
+![Ticket System Picture](https://i.imgur.com/HBMJ31a.png)                                               
+This is a system that turns the standard '@' admin message into a ticket. Staff members can accept tickets, and it has quick access for steam, bring, goto, and return using the actions button.
+
 ### ClonewarsRP "AI"
 ![CWRP AI Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/simpleai.gif)
 This is a system that allows you to open any door through commands. It has a registering system so you can name the doors, and it uses file-saving, meaning it will persist through server restarts. 
