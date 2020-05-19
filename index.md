@@ -10,7 +10,7 @@ Here are the things that I have been commissioned to make:
 
 ### Ticket System
 ![Ticket System Picture](https://i.imgur.com/HBMJ31a.png)                                               
-This is a system that turns the standard '@' admin message into a ticket. Staff members can accept tickets, and it has quick access for steam, bring, goto, and return using the actions button.
+This is a system that turns the standard '@' admin message into a ticket. Staff members can accept tickets, and it has quick access for SteamID, bring, goto, and return using the actions button.
 
 ### ClonewarsRP "AI"
 ![CWRP AI Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/simpleai.gif)
