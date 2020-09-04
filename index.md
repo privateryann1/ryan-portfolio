@@ -18,7 +18,7 @@ This is a system that allows you to open any door through commands. It has a reg
 
 ### Jail Command
 ![Jail Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/jailcommand.gif)
-This is a custom ULX command that improves the default jail from ULX. This strips the target, teleports them to your defined room, and keeps them there for a specified amount of time. The target cannot switch jobs, spawn props, and suicide to get out. If they reconnect to the server, they will still be jailed. Also includes commands to add jail positions in-game.
+This is a custom ULX command that improves the default jail from ULX. This strips the target, teleports them to your defined room, and keeps them there for a specified amount of time. The target cannot switch jobs, spawn props, and suicide to get out. If they reconnect to the server, they will still be jailed. Also includes commands to add jail positions in-game. (Also supports SAM admin mod)
 
 ## Personal Projects
 
