@@ -4,9 +4,13 @@ I have been developing in Garry's Mod for a few years now, whether it's server c
 
 You can contact me on [gmodstore](https://www.gmodstore.com/users/privateryan), [Steam](https://steamcommunity.com/id/BigRVman/), and [Discord](https://discordapp.com/users/328348902732595210).
 
-## Commissioned Projects
+## Projects
 
-Here are the things that I have been commissioned to make:
+Here are some of the projects I have worked on:
+
+### Point Capture System
+![Capture Picture](https://i.imgur.com/gB4u2a8.jpg)
+This is a standard system where you stand on the point and it starts to capture for your team. This project is still work-in-progress.
 
 ### Ticket System
 ![Ticket System Picture](https://i.imgur.com/HBMJ31a.png)                                               
@@ -19,10 +23,6 @@ This is a system that allows you to open any door through commands. It has a reg
 ### Jail Command
 ![Jail Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/jailcommand.gif)
 This is a custom ULX command that improves the default jail from ULX. This strips the target, teleports them to your defined room, and keeps them there for a specified amount of time. The target cannot switch jobs, spawn props, and suicide to get out. If they reconnect to the server, they will still be jailed. Also includes commands to add jail positions in-game. (Also supports SAM admin mod)
-
-## Personal Projects
-
-Here are some of the projects I've worked on in the past:
 
 ### Faction Selector
 ![Faction Selector Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/factionselector.gif)
