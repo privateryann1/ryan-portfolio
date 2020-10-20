@@ -12,19 +12,11 @@ Here are some of the projects I have worked on:
 ![Quest Menu Photo](https://i.imgur.com/VK0NYli.png)
 A questing system that allows the user to easily create quests with little to no Lua knowledge.
 
-### Point Capture System
-![Capture Picture](https://i.imgur.com/gB4u2a8.jpg)
-This is a standard system where you stand on the point and it starts to capture for your team. This project is still work-in-progress.
-
 ### Ticket System
 ![Ticket System Picture](https://i.imgur.com/KfaBZ5T.png)                                               
 This is a system that turns the standard '@' admin message into a ticket. Staff members can accept tickets, and it has quick access for SteamID, bring, goto, and return using the actions button.\
 [GitHub](https://steamcommunity.com/sharedfiles/filedetails/?id=2262686856) \
 [Steam Workshop](https://github.com/privateryann1/ulxticketsystem/)
-
-### ClonewarsRP "AI"
-![CWRP AI Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/simpleai.gif)
-This is a system that allows you to open any door through commands. It has a registering system so you can name the doors, and it uses file-saving, meaning it will persist through server restarts. 
 
 ### Jail Command
 ![Jail Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/jailcommand.gif)
@@ -32,13 +24,22 @@ This is a custom ULX command that improves the default jail from ULX. This strip
 [GitHub](https://steamcommunity.com/sharedfiles/filedetails/?id=2262644851) \
 [Steam Workshop](https://github.com/privateryann1/customulxjail/)
 
-### Faction Selector
-![Faction Selector Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/factionselector.gif)
-A simple, clean menu that pops-up when a user loads into the server. It allows the user to choose which side they would like to join.
 
 ### Leaderboard
 ![Leaderboard](https://i.imgur.com/buYlR4c.png)                                                     
 This is a clean, simplistic menu that shows the top 3 people of each defined category: Kills, Deaths, KDR, and Money.
+
+### Point Capture System
+![Capture Picture](https://i.imgur.com/gB4u2a8.jpg)
+This is a standard system where you stand on the point and it starts to capture for your team. This project is still work-in-progress.
+
+### ClonewarsRP "AI"
+![CWRP AI Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/simpleai.gif)
+This is a system that allows you to open any door through commands. It has a registering system so you can name the doors, and it uses file-saving, meaning it will persist through server restarts. 
+
+### Faction Selector
+![Faction Selector Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/factionselector.gif)
+A simple, clean menu that pops-up when a user loads into the server. It allows the user to choose which side they would like to join.
 
 ### Weapon Dealer/Shop NPC
 ![Shop NPC Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/shopnpc.gif)
