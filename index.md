@@ -17,7 +17,7 @@ A questing system that allows the user to easily create quests with little to no
 This is a standard system where you stand on the point and it starts to capture for your team. This project is still work-in-progress.
 
 ### Ticket System
-![Ticket System Picture](https://i.imgur.com/HBMJ31a.png)                                               
+![Ticket System Picture](https://i.imgur.com/KfaBZ5T.png)                                               
 This is a system that turns the standard '@' admin message into a ticket. Staff members can accept tickets, and it has quick access for SteamID, bring, goto, and return using the actions button.
 
 ### ClonewarsRP "AI"
