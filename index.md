@@ -15,14 +15,14 @@ A questing system that allows the user to easily create quests with little to no
 ### Ticket System
 ![Ticket System Picture](https://i.imgur.com/KfaBZ5T.png)                                               
 This is a system that turns the standard '@' admin message into a ticket. Staff members can accept tickets, and it has quick access for SteamID, bring, goto, and return using the actions button.\
-[GitHub](https://steamcommunity.com/sharedfiles/filedetails/?id=2262686856) \
-[Steam Workshop](https://github.com/privateryann1/ulxticketsystem/)
+[GitHub](https://github.com/privateryann1/ulxticketsystem/) \
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2262686856)
 
 ### Jail Command
 ![Jail Gif](https://raw.githubusercontent.com/privateryann1/ryan-portfolio/master/gifs/jailcommand.gif)
 This is a custom ULX command that improves the default jail from ULX. This strips the target, teleports them to your defined room, and keeps them there for a specified amount of time. The target cannot switch jobs, spawn props, and suicide to get out. If they reconnect to the server, they will still be jailed. Also includes commands to add jail positions in-game. (Also supports SAM admin mod)\
-[GitHub](https://steamcommunity.com/sharedfiles/filedetails/?id=2262644851) \
-[Steam Workshop](https://github.com/privateryann1/customulxjail/)
+[GitHub](https://github.com/privateryann1/customulxjail/) \
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2262644851)
 
 
 ### Leaderboard
