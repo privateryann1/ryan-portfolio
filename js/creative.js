@@ -4,9 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-particlesJS.load('particles-js', 'js/particlesjs-config.json', function() {
-  console.log('callback - particles.js config loaded');
-});
 
 (function($) {
     "use strict"; // Start of use strict
