@@ -121,7 +121,7 @@ const Resume = () => {
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2013
+          2019
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -129,27 +129,25 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            web design
+            Ticket System
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Garry's Mod
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            Created a ticket system. It is a system where the player can send a message to the staff members. The staff can claim the ticket, and then use the quick access commands to teleport, bring, and copy steam id, through the user-interface.
+            https://www.gmodstore.com/jobmarket/jobs/33960
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2014
+          2019
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -157,27 +155,25 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            html & css
+            Custom Jail Command
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Garry's Mod
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            Created a custom jail command that worked for the ULX admin mod and SAM admin mod. It was partially inspired by the IceFuse jail system, where a player is in 'timeout' for x amount of minutes.
+            https://www.gmodstore.com/jobmarket/jobs/35783
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2015
+          2019
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -185,27 +181,27 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            Fullstack Javascript
+            SantosRP Server Setup
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Garry's Mod
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            "Server is already bought and prepaid for the next 3 months, it's hosting a gamemode derived from DarkRP that is not completely working.
+            While it's functional, there are many bugs/lua errors such as player groups not showing on the scoreboard, content not being correctly mounted,
+            not the correct workshop content, etc. These are mundane tasks that I currently don't have time for as I'm loaded with IRL work for the next 2 weeks."
+            https://www.gmodstore.com/jobmarket/jobs/35684
           </Typography>
         </Box>
         <Typography
           variant="h2"
           className={`${classes.timeLineYear} ${classes.timeLineItem}`}
         >
-          2017
+          2019
         </Typography>
         <Box component="div" className={classes.timeLineItem}>
           <Typography
@@ -213,20 +209,45 @@ const Resume = () => {
             align="center"
             className={classes.subHeading}
           >
-            Django & React
+            Rewards System
           </Typography>
           <Typography variant="body1" align="center" className={classes.body1}>
-            company name where worked
+            Garry's Mod
           </Typography>
           <Typography
             variant="subtitle1"
             align="center"
             className={classes.subtitle1}
           >
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero quas
-            ipsa, laudantium totam perferendis possimus voluptatibus tenetur.
-            Quasi voluptatibus, nam vitae eaque ad, officia laboriosam
-            repudiandae, rerum necessitatibus nisi mollitia.
+            Gmodstore job. "I have a custom daily rewards system (name rewards, cash rewards etc.) that I want revamped. Most of UI is already finished aside from a few things I want added/changed, however a lot of the back end needs re-made."
+            https://www.gmodstore.com/jobmarket/jobs/35733
+          </Typography>
+        </Box>
+
+        <Typography
+          variant="h2"
+          className={`${classes.timeLineYear} ${classes.timeLineItem}`}
+        >
+          2020
+        </Typography>
+        <Box component="div" className={classes.timeLineItem}>
+          <Typography
+            variant="h5"
+            align="center"
+            className={classes.subHeading}
+          >
+            CWRP Door System
+          </Typography>
+          <Typography variant="body1" align="center" className={classes.body1}>
+            Garry's Mod
+          </Typography>
+          <Typography
+            variant="subtitle1"
+            align="center"
+            className={classes.subtitle1}
+          >
+            I created a system that allowed the admins to control doors on the map through chat commands. Setup was done fully in-game, and doors were defined and saved in data files.
+            https://www.gmodstore.com/jobmarket/jobs/35736
           </Typography>
         </Box>
       </Box>
