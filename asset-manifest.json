@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8daac511.css",
+    "main.js": "/static/js/main.be2621a8.js",
+    "static/media/coffee-apple.jpg": "/static/media/coffee-apple.a0c19713a15fff3f3cff.jpg",
+    "static/media/react.png": "/static/media/react.e3c4d28a8f7c5cce174e.png",
+    "static/media/html-css-javascript-lg.jpg": "/static/media/html-css-javascript-lg.91568b1416dddce7652e.jpg",
+    "static/media/javascript-fullstack.jpg": "/static/media/javascript-fullstack.f5822e7b22d28ca8d914.jpg",
+    "static/media/react-redux.jpg": "/static/media/react-redux.fb61d4562a822c5bb24c.jpg",
+    "static/media/mern-stack.jpg": "/static/media/mern-stack.64b9cbddb7ab105f03de.jpg",
+    "static/media/avatar.png": "/static/media/avatar.d94025aac6e87c5e1840.png",
+    "static/media/html-css-javascript.jpg": "/static/media/html-css-javascript.3ead675491c2e51d9976.jpg",
+    "index.html": "/index.html",
+    "main.8daac511.css.map": "/static/css/main.8daac511.css.map",
+    "main.be2621a8.js.map": "/static/js/main.be2621a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8daac511.css",
+    "static/js/main.be2621a8.js"
+  ]
+}
