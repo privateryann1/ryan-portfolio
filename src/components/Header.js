@@ -48,7 +48,12 @@ const Header = () => {
           strings={[
             "Frontend Developer",
             "Backend Developer",
-            "Garry's Mod Developer",
+            "Java",
+            "Lua",
+            "JavaScript",
+            "TypeScript",
+            "HTML",
+            "CSS"
           ]}
           typeSpeed={40}
           backSpeed={50}
