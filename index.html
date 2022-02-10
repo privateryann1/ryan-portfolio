@@ -14,6 +14,8 @@
 
     <script src="js/particles.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.textfill.min.js"></script>
 
     <div class="container-1">
 
@@ -26,7 +28,7 @@
                 <ul class="nav-links">
                     <li><a href="#"><i class="fa-li fas fa-house-user"></i><p>Home</p></a></li>
                     <li><a href="#about"><i class="fa-li fas fa-book"></i><p>About</p></a></li>
-                    <li><a href="#projects"><i class="fa-li fas fa-clipboard-list"></i><p>Projects</p></a></li>
+                    <li><a href="#services"><i class="fa-li fas fa-clipboard-list"></i><p>Services</p></a></li>
                     <li><a href="#experience"><i class="fa-li fas fa-address-book"></i><p>Experience</p></a></li>
                     <li><a href="#contact"><i class="fa-li fas fa-envelope-open-text"></i><p>Contact</p></a></li>
                     <div class="active"></div>
@@ -65,18 +67,115 @@
 
             <div class="about-me" id="about">
 
-                <div class="about-me-title">
-                    <h1>About Me</h1>
+                <div class="about-me-container">
+                    <div class="about-me-header">
+                        <div class="about-me-title">
+                            <h1>About Me</h1>
+                        </div>
+        
+                        <div class="about-me-circle">
+                            <img src="images/logo.png" class="about-me-img">
+                        </div>
+                    </div>
+    
+                    <div class="about-me-bubble bubble">
+                        <div class="about-text" id="about-text">
+                            <span>Hi, I'm Ryan Van Gilder. I am a web developer,
+                                and small game developer from the United States.
+                                I have just begun the journey of learning
+                                web development, and I am excited to see what the future brings.</span>
+                        </div>
+    
+                        <div class="container-about">
+                            <div class="web-development">
+                                <div class="web-development-text">
+                                    <h2 class="web-title">Web Development</h2>
+                                </div>
+                                
+                                <div class="web-progress">
+                                    <div class="web-bar"></div>
+                                </div>
+                            </div>
+                            <div class="game-development">
+                                <div class="game-development-text">
+                                    <h2 class="game-title">Game Development</h2>
+                                </div>
+                                
+                                <div class="game-progress">
+                                    <div class="game-bar"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
-                <div class="about-me-circle">
-                    <img src="images/logo.png" class="about-me-img">
+                <div class="about-stats">
+
+                    <div class="stats-jobs">
+
+                        <div class="stats-jobs-head">
+                            <i class="fa-solid fa-clipboard-check"></i>
+                            <div class="stats-header">
+                                <h2>10</h2>
+                                <p>Jobs Completed</p>
+                            </div>
+                        </div>
+                        
+                    </div>
+
+                    <div class="stats-repos">
+                        <div class="stats-repos-head">
+                            <i class="fa-brands fa-github"></i>
+                            <div class="stats-header">
+                                <h2>8</h2>
+                                <p>GitHub repos</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="stats-rep">
+                        <div class="stats-rep-head">
+                            <i class="fa-brands fa-goodreads"></i>
+                            <div class="stats-header">
+                                <h2>10</h2>
+                                <p>Gmodstore Rep</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="stats-workshop">
+                        <div class="stats-workshop-head">
+                            <i class="fa-solid fa-cloud-arrow-down"></i>
+                            <div class="stats-header">
+                                <h2>3098</h2>
+                                <p>Workshop Subs</p>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
 
-                <div class="about-me-bubble bubble">
-                    <p>Hi, I'm Ryan Van Gilder. I am a web developer, and small game developer from the United States. I just started learning web development, and I am excited to see what the future brings.</p>
-                </div>
+            </div>
 
+            <div class="services" id="services">
+                <div class="services-container">
+
+                    <h1>Services</h1>
+
+                    <div class="services-container-2">
+
+                        <div class="service-web">
+
+                        </div>
+
+                        <div class="service-game">
+
+                        </div>
+
+                    </div>
+
+                </div>
             </div>
 
         </div>

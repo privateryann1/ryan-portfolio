@@ -27,7 +27,7 @@ html{
     display: flex;
     flex-direction: column;
     background: var(--background-color);
-    width: 100%;
+    width: 100vw;
 }
 
 /* Side Nav Bar */
@@ -136,7 +136,7 @@ html{
 
 #particles-js{
     position: absolute;
-    width: 100%;
+    width: calc(100vw - 250px);
     height: 100%;
     z-index: 1;
 }
@@ -146,6 +146,8 @@ html{
 .home{
     flex: auto;
     z-index: 100;
+    width: calc(100vw - 250px);
+    height: 100vh;
 }
 
 /* Logo */
@@ -237,20 +239,40 @@ html{
 
 .about-me{
     flex: auto;
-    margin-top: 32%;
+    display: flex;
+    flex-direction: column;
     z-index: 100;
-    height: 500px;
+    height: 550px;
+    margin-left: 7vw;
+}
+
+.about-me-container{
+    display: flex;
 }
 
 /* About Me Header */
 
+.about-me-header{
+    width: 200px;
+    margin-left: 20%;
+    height: 20%;
+}
+
+@media only screen and (max-width:1920px){
+    .about-me-header{
+        margin-left: 10%;
+    }
+}
+
 .about-me-title{
     position: relative;
-    margin-left: 17.4%;
+    margin-left: 1vw;
 }
 
 .about-me-title h1{
     color: #fff;
+    font-size: 1.3vw;
+    text-align: center;
 }
 
 /* About Me Img */
@@ -261,30 +283,38 @@ html{
     width: 128px;
     background-color: var(--secondary-color);
     border-radius: 50%;
-    margin-left: 18%;
-    margin-top: 20px;
+    margin-left: 22%;
+    margin-top: 20%;
 }
 
 .about-me-img{
     position: relative;
     width: 123px;
     height: 128px;
-    margin-top: 10px
+    margin-top: 10px;
 }
 
 /* Speech bubble */
 
 .about-me-bubble{
-    width: 420px;
-    margin-left: 26%;
-    margin-top: -4%;
+    display: flex;
+    width: 850px;
+    height: 180px;
     background: #302F4E;
-    padding: 20px;
-    text-align: center;
+    padding: 30px;
+    text-align: left;
     font-weight: 300;
     color: #fff;
     position: relative;
+    margin-left: 2%;
+    margin-top: 5%;
 }
+
+.about-text{
+    width: 50%;
+    height: 100%;
+}
+
 
 .bubble:before{
     content: "";
@@ -297,6 +327,228 @@ html{
     border-bottom: 10px solid transparent;
     left: -19px;
     top: 6px;
+}
+
+/* Progress Bars */
+
+.container-about{
+    display: flex;
+    flex-direction: column;
+    width: 47%;
+    margin-left: 15px;
+}
+
+.web-development{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.web-development-text{
+    display: flex;
+    flex-direction: row;
+}
+
+.web-title{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.web-progress{
+    background-color: #fff;
+    width: 100%;
+    height: 8px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.web-bar{
+    width: 20%;
+    height: 100%;
+    background: #a1ac0b;
+    border-radius: 10px
+}
+
+.game-development{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.game-development-text{
+    display: flex;
+    flex-direction: row;
+}
+
+.game-title{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.game-progress{
+    background-color: #fff;
+    width: 100%;
+    height: 8px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.game-bar{
+    width: 70%;
+    height: 100%;
+    background: #12aedd;
+    border-radius: 10px
+}
+
+/* Stats Section */
+
+.about-stats{
+    display: flex;
+    width: 50%;
+    height: 100px;
+    margin-left: 22%;
+    margin-top: 2%;
+}
+
+.stats-jobs{
+    display: flex;
+    flex-direction: column;
+}
+
+.stats-jobs-head{
+    display: flex;
+    align-items: center;
+}
+
+.stats-jobs-head i{
+    font-size: 30px;
+    -webkit-text-stroke: 1px white;
+    color: rgba(0,0,0,0);
+}
+
+.stats-header{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+}
+
+.stats-header h2{
+    color: white;
+    text-align: center;
+    margin-left: 30px;
+    font-size: 35px;
+}
+
+.stats-header p{
+    color: #fff;
+    margin-left:29px;
+}
+
+.stats-repos{
+    margin-left: 110px;
+    display: flex;
+    flex-direction: column;
+}
+
+.stats-repos-head{
+    display: flex;
+    align-items: center;
+}
+
+.stats-repos-head i{
+    font-size: 30px;
+    -webkit-text-stroke: 1px white;
+    color: rgba(0,0,0,0);
+}
+
+.stats-rep{
+    margin-left: 110px;
+    display: flex;
+    flex-direction: column;
+}
+
+.stats-rep-head{
+    display: flex;
+    align-items: center;
+}
+
+.stats-rep-head i{
+    font-size: 30px;
+    -webkit-text-stroke: 1px white;
+    color: rgba(0,0,0,0);
+}
+
+.stats-workshop{
+    margin-left: 110px;
+    display: flex;
+    flex-direction: column;
+}
+
+.stats-workshop-head{
+    display: flex;
+    align-items: center;
+}
+
+.stats-workshop-head i{
+    font-size: 30px;
+    -webkit-text-stroke: 1px white;
+    color: rgba(0,0,0,0);
+}
+
+/* Services Section */
+
+.services{
+    width: 100%;
+    height: 100vh;
+}
+
+.services-container{
+    display: flex;
+    flex-direction: column;
+    margin-left: 27.5%;
+}
+
+.services-container h1{
+    color: #fff;
+    font-size: 1.3vw;
+}
+
+.services-container-2{
+    display: flex;
+    margin-top: 50px;
+}
+
+.service-web{
+    width: 25%;
+    height: 300px;
+    background: #d3c546;
+    border-radius: 20px;
+    margin-right: 100px;
+    box-shadow: 0px 0px 10px 0px #d3c546;
+}
+
+.service-game{
+    width: 25%;
+    height: 300px;
+    background: #129bc5;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px #129bc5;
+}
+
+@media only screen and (max-width: 1920px){
+    .services-container{
+        margin-left: 20.8%;
+    }
+
+    .service-web{
+        width: 30%;
+    }
+
+    .service-game{
+        width: 30%;
+    }
 }
 
 /* Media Queries */
