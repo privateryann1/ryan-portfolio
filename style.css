@@ -446,6 +446,16 @@ html{
     margin-left:29px;
 }
 
+@media only screen and (max-width:1920px){
+    .stats-header{
+        margin-top: 52px;
+    }
+    
+    .stats-header h2{
+        margin-top: 0px;
+    }
+}
+
 .stats-repos{
     margin-left: 110px;
     display: flex;
