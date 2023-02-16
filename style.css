@@ -187,6 +187,7 @@ html{
     text-decoration: none;
     color: #fff;
     z-index: 100;
+    cursor: text;
 }
 
 /* Icon links */
